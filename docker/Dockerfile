@@ -1,7 +1,8 @@
 FROM tensorflow/tensorflow:latest-py3
 WORKDIR /
-RUN apt-get update && apt-get install -y            \
-    apt-utils                                       \
+RUN apt-get update                               && \
+    apt-get install -y apt-utils                 && \
+    apt-get install -y                              \
     unzip                                           \
     wget                                            \
     curl                                            \
