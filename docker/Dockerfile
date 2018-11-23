@@ -13,7 +13,4 @@ RUN apt-get update && apt-get install -y            \
     libxext6                                     && \
     pip3 install opencv-python                   && \
     pip3 install opencv-contrib-python
-VOLUME /PROJECT_NAME/data
-VOLUME /PROJECT_NAME/results
-
-
+VOLUME /PROJECT_NAME
