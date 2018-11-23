@@ -12,7 +12,5 @@ RUN apt-get update && apt-get install -y            \
     libfontconfig1                                  \
     libxext6                                     && \
     pip3 install opencv-python                   && \
-    pip3 install opencv-contrib-python           && \
-    mkdir PROJECT_NAME                           && \
-    cd PROJECT_NAME                              
+    pip3 install opencv-contrib-python          
 VOLUME /PROJECT_NAME
