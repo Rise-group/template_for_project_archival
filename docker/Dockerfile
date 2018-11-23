@@ -1,6 +1,6 @@
 FROM tensorflow/tensorflow:latest-py3
 ENV PROJECT_NAME template_for_project_archival
-WORKDIR /
+WORKDIR /PROJECT_NAME
 RUN apt-get update && apt-get install -y            \
     apt-utils                                       \
     unzip                                           \
