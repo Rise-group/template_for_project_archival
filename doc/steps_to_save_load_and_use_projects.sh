@@ -128,6 +128,7 @@ cd ..
 
 #Option 2: Load your docker image from a .tar (previously created by someone else).
 #sudo docker load --input python3-tensorflow-opencv.tar
+#cd ..
 
 #----------------------------------------------------------------------------------------------------------
 #How to run the docker container?
@@ -139,6 +140,8 @@ sudo docker run -it --rm -e PROJECT_NAME=template_for_project_archival --name "c
 
 #Option 2: Run the container, attach the volume with the project folder, and use it from a Jupyter notebook through a web browser (local host - port 8888).
 #sudo docker run -it --rm -e PROJECT_NAME=template_for_project_archival --name "container_tensorflow_opencv_py3" -p 8888:8888 -v $(pwd)/:/template_for_project_archival/:rw python3-tensorflow-opencv
+
+#Note: to quit the container type exit and press enter.
 
 #----------------------------------------------------------------------------------------------------------
 #How to create a docker image from a docker container, and how to save it into a .tar file for future use?
