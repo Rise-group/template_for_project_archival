@@ -127,6 +127,7 @@ sudo docker build $(pwd) -t python3-tensorflow-opencv
 cd ..
 
 #Option 2: Load your docker image from a .tar (previously created by someone else).
+#cd docker
 #sudo docker load --input python3-tensorflow-opencv.tar
 #cd ..
 
@@ -146,6 +147,9 @@ sudo docker run -it --rm -e PROJECT_NAME=template_for_project_archival --name "c
 #----------------------------------------------------------------------------------------------------------
 #How to create a docker image from a docker container, and how to save it into a .tar file for future use?
 #----------------------------------------------------------------------------------------------------------
+
+cd docker
+
 #List the containers.
 sudo docker ps -a
 
