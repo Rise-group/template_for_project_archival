@@ -20,7 +20,7 @@
         <y:ProxyAutoBoundsNode>
           <y:Realizers active="0">
             <y:GroupNode>
-              <y:Geometry height="2920.2724598387053" width="2446.0381316233716" x="4349.071293676579" y="-454.6596481659679"/>
+              <y:Geometry height="2956.474468740673" width="2446.0381316233716" x="3819.480051571317" y="-468.0859050080733"/>
               <y:Fill color="#F5F5F5" transparent="false"/>
               <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
               <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="2446.0381316233716" x="0.0" y="0.0">Project archival - code and dockerfile in Github, data in dropbox</y:NodeLabel>
@@ -46,7 +46,7 @@
         <node id="n0::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="32.29375999999996" width="1750.92676513681" x="4395.359452048756" y="247.5206352157634"/>
+              <y:Geometry height="32.29375999999996" width="1750.92676513681" x="3865.7682099434933" y="234.09437837365797"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="213.91796875" x="768.504398193405" y="0.1781299999999817">Create a docker account (it is free)
@@ -65,7 +65,7 @@ https://hub.docker.com/
         <node id="n0::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="143.90975999999995" width="1750.92676513681" x="4395.359452048756" y="87.04127521576316"/>
+              <y:Geometry height="143.90975999999995" width="1750.92676513681" x="3865.7682099434933" y="73.61501837365773"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="143.6875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="357.90625" x="696.510257568405" y="0.11112999999997442">Install a STABLE version of Docker Community Edition (CE)
@@ -91,7 +91,7 @@ https://docs.docker.com/install/linux/docker-ce/ubuntu/<y:LabelModel>
         <node id="n0::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="139.57482666666664" width="1750.92676513681" x="4395.359452048756" y="296.3839952157632"/>
+              <y:Geometry height="139.57482666666664" width="1750.92676513681" x="3865.7682099434933" y="282.9577383736578"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="129.71875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="260.060546875" x="745.433109130905" y="4.9280383333333475">Browse https://hub.docker.com/
@@ -116,7 +116,7 @@ R<y:LabelModel>
         <node id="n0::n3">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="1750.92676513681" x="4395.359452048756" y="40.471675215763355"/>
+              <y:Geometry height="30.0" width="1750.92676513681" x="3865.7682099434933" y="27.045418373657924"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="297.40234375" x="726.762210693405" y="6.015625">STEP 0: Configuring a docker file for your project<y:LabelModel>
@@ -133,7 +133,7 @@ R<y:LabelModel>
         <node id="n0::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="1750.9267651368089" x="4395.359452048757" y="603.8908013512082"/>
+              <y:Geometry height="30.0" width="1750.9267651368089" x="3865.768209943494" y="590.4645445091028"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="272.341796875" x="739.2924841309041" y="6.015625">STEP 1: Prepare your project for deployment<y:LabelModel>
@@ -150,7 +150,7 @@ R<y:LabelModel>
         <node id="n0::n5">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="227.51806972780372" width="1750.9267651368089" x="4395.359452048757" y="647.7731979618347"/>
+              <y:Geometry height="227.51806972780372" width="1750.9267651368089" x="3865.768209943494" y="634.3469411197293"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="171.625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="827.8046875" x="461.5610388184041" y="27.94653486390189">Organize a folder for your project with the following structure:
@@ -178,10 +178,10 @@ R<y:LabelModel>
         <node id="n0::n6">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="187.8617255759012" width="189.9248888938355" x="5055.4077297662925" y="-367.3814588367513"/>
+              <y:Geometry height="187.8617255759012" width="189.9248888938355" x="4525.81648766103" y="-380.8077156788567"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="192.47265625" x="-1.273883678081802" y="77.96211278795062">Github
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="192.47265625" x="-1.2738836780827114" y="77.96211278795062">Github
 (code+Dockerfile+docs+extra)<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
@@ -196,10 +196,10 @@ R<y:LabelModel>
         <node id="n0::n7">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="187.8617255759012" width="189.9248888938355" x="5252.454373901751" y="-367.3814588367513"/>
+              <y:Geometry height="187.8617255759012" width="189.9248888938355" x="4722.863131796488" y="-380.8077156788567"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.193359375" x="67.3657647594182" y="77.96211278795062">Dropbox
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="55.193359375" x="67.36576475941729" y="77.96211278795062">Dropbox
 (data)<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
@@ -214,10 +214,10 @@ R<y:LabelModel>
         <node id="n0::n8">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="57.835041222255654" width="221.1393632389745" x="5138.116710319122" y="-145.7094787108196"/>
+              <y:Geometry height="57.835041222255654" width="221.1393632389745" x="4608.525468213859" y="-159.13573555292504"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="181.90234375" x="19.6185097444868" y="19.933145611127827">Console with Docker installed<y:LabelModel>
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="181.90234375" x="19.61850974448771" y="19.933145611127827">Console with Docker installed<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
                 <y:ModelParameter>
@@ -231,7 +231,7 @@ R<y:LabelModel>
         <node id="n0::n9">
           <data key="d6">
             <y:SVGNode>
-              <y:Geometry height="64.53585815429688" width="56.560157775878906" x="5220.153407325668" y="-54.06418293853352"/>
+              <y:Geometry height="64.53585815429688" width="56.560157775878906" x="4690.562165220405" y="-67.49043978063895"/>
               <y:Fill color="#CCCCFF" transparent="false"/>
               <y:BorderStyle color="#000000" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="4.0" x="26.280078887939453" y="68.53585815429688">
@@ -252,7 +252,7 @@ R<y:LabelModel>
         <node id="n0::n10">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="48.32315360395057" width="1750.9267651368089" x="4395.359452048756" y="898.5551189454877"/>
+              <y:Geometry height="48.32315360395057" width="1750.9267651368089" x="3865.7682099434933" y="885.1288621033823"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="533.734375" x="608.5961950684041" y="8.192826801975343">Upload your folder /data to RiSE's unlimited Dropbox account.
@@ -270,7 +270,7 @@ Note: Make sure that the public link only allows other users to READ and not to 
         <node id="n0::n11">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="48.32315360395057" width="1750.92676513681" x="4395.359452048756" y="452.52842188242977"/>
+              <y:Geometry height="48.32315360395057" width="1750.92676513681" x="3865.7682099434933" y="439.10216504032434"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="763.369140625" x="493.778812255905" y="8.192826801975286">Using the image as a starting point, write a Dockerfile that configures your environment,
@@ -288,7 +288,7 @@ you can use as reference the file available in: https://github.com/Rise-group/te
         <node id="n0::n12">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="40.10176000000007" width="1750.9267651368064" x="4395.359452048758" y="1084.5914010166027"/>
+              <y:Geometry height="40.10176000000007" width="1750.9267651368064" x="3865.768209943495" y="1071.1651441744973"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.18359375" x="814.3715856934032" y="11.066505000000006">Open a terminal (1)<y:LabelModel>
@@ -305,7 +305,7 @@ you can use as reference the file available in: https://github.com/Rise-group/te
         <node id="n0::n13">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="156.64876170634494" width="1750.9267651368064" x="4395.359452048758" y="1313.2065370568866"/>
+              <y:Geometry height="156.64876170634494" width="1750.9267651368064" x="3865.768209943495" y="1299.7802802147812"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="143.6875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="970.05859375" x="390.4340856934032" y="6.480630853172443">From the README.md file in the root of your project folder, get the URL to the /data folder in Dropbox and download it into /data folder in your project directory,
@@ -331,7 +331,7 @@ rm data.zip<y:LabelModel>
         <node id="n0::n14">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="40.10176000000007" width="1750.9267651368064" x="4395.359452048756" y="1979.1739560602673"/>
+              <y:Geometry height="40.10176000000007" width="1750.9267651368064" x="3865.7682099434933" y="1965.7476992181619"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="630.8359375" x="560.0454138184032" y="11.066505000000006">Follow the guidelines of the README.md file of the project, and run the code within the Docke container<y:LabelModel>
@@ -348,7 +348,7 @@ rm data.zip<y:LabelModel>
         <node id="n0::n15">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="32.29375999999996" width="1750.926765136806" x="4395.359452048758" y="2030.0133158486915"/>
+              <y:Geometry height="32.29375999999996" width="1750.926765136806" x="3865.768209943495" y="2016.587059006586"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="794.435546875" x="478.2456091309032" y="0.1781300000002375">Once you are happy with the results, open a new terminal (2), and write down the CONTAINER_ID. This can be extracted by typing:
@@ -366,10 +366,10 @@ sudo docker ps -a<y:LabelModel>
         <node id="n0::n16">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="40.10176000000007" width="1750.9267651368073" x="4395.359452048756" y="2340.705045904744"/>
+              <y:Geometry height="40.10176000000007" width="1750.9267651368073" x="3865.7682099434933" y="2363.480797964606"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="531.466796875" x="609.7299841309041" y="4.082130000000234">If you won't be using the container anymore, feel free to force it to stop and remove it. 
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="531.466796875" x="609.7299841309032" y="4.082130000000234">If you won't be using the container anymore, feel free to force it to stop and remove it. 
 sudo docker rm --force CONTAINER_ID<y:LabelModel>
                   <y:SmartNodeLabelModel distance="4.0"/>
                 </y:LabelModel>
@@ -384,10 +384,10 @@ sudo docker rm --force CONTAINER_ID<y:LabelModel>
         <node id="n0::n17">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="60.53595496786767" width="1750.9267651368073" x="4395.359452048756" y="2390.0768567048694"/>
+              <y:Geometry height="60.53595496786767" width="1750.9267651368073" x="3865.7682099434933" y="2412.8526087647315"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="634.287109375" x="558.3198278809041" y="0.33047748393391885">If you won't use the docker image any longer you can delete it as well. To see the image identifier, type:
+              <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="634.287109375" x="558.3198278809032" y="0.33047748393391885">If you won't use the docker image any longer you can delete it as well. To see the image identifier, type:
 sudo docker images -a 
 Once you know the IMAGE_ID of the image that want to delete, type:
 sudo docker rmi IMAGE_ID
@@ -405,7 +405,7 @@ sudo docker rmi IMAGE_ID
         <node id="n0::n18">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="30.0" width="1750.926765136807" x="4395.359452048758" y="1044.2355979272093"/>
+              <y:Geometry height="30.0" width="1750.926765136807" x="3865.768209943495" y="1030.8093410851038"/>
               <y:Fill color="#FFCC00" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="155.8984375" x="797.5141638184032" y="6.015625">STEP 2: Using the project<y:LabelModel>
@@ -422,7 +422,7 @@ sudo docker rmi IMAGE_ID
         <node id="n0::n19">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="75.66662757852242" width="1750.9267651368064" x="4395.359452048758" y="1221.0713947739123"/>
+              <y:Geometry height="75.66662757852242" width="1750.9267651368064" x="3865.768209943495" y="1207.6451379318069"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="200.224609375" x="775.3510778809032" y="7.895813789261183">cd PATH_TO_YOUR_PROJECT
@@ -442,7 +442,7 @@ cd template_for_project_archival<y:LabelModel>
         <node id="n0::n20">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="75.66662757852242" width="1750.9267651368064" x="4395.359452048758" y="1135.0489641059962"/>
+              <y:Geometry height="75.66662757852242" width="1750.9267651368064" x="3865.768209943495" y="1121.6227072638908"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="73.84375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="440.9921875" x="654.9672888184032" y="0.911438789261183">Clone the github repository for the project:
@@ -466,7 +466,7 @@ git clone https://github.com/Rise-group/template_for_project_archival.git<y:Labe
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="303.98116021241435" width="1750.9267651368036" x="4395.359452048758" y="1486.3238134676835"/>
+                  <y:Geometry height="303.98116021241435" width="1750.9267651368036" x="3865.768209943495" y="1472.897556625578"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1750.9267651368036" x="0.0" y="0.0">Options for building your docker image</y:NodeLabel>
@@ -492,10 +492,10 @@ git clone https://github.com/Rise-group/template_for_project_archival.git<y:Labe
             <node id="n0::n21::n0">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="123.65151896123746" width="1339.4133402828584" x="4758.58470109023" y="1522.7847509676835"/>
+                  <y:Geometry height="123.65151896123746" width="1339.4133402828584" x="4228.993458984967" y="1509.358494125578"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="115.75" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="338.154296875" x="500.62952170392873" y="3.9507594806186717">cd docker
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="115.75" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="338.154296875" x="500.62952170392964" y="3.9507594806186717">cd docker
 sudo docker build $(pwd) -t name_for_your_image
 cd ..
 
@@ -516,13 +516,17 @@ cd ..<y:LabelModel>
             <node id="n0::n21::n1">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="118.51290066178348" width="1339.413340282862" x="4758.58470109023" y="1656.7920730183143"/>
+                  <y:Geometry height="118.51290066178348" width="1339.413340282862" x="4228.993458984967" y="1643.365816176209"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="339.73046875" x="499.84143576643055" y="29.318950330891766">sudo docker load --input NAME_OF_YOUR_IMAGE.tar
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="115.75" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="339.73046875" x="499.84143576643146" y="1.3814503308917665">cd docker
+sudo docker load --input NAME_OF_YOUR_IMAGE.tar
+cd ..
 
 For instance:
-sudo docker load --input python3-tensorflow-opencv.tar<y:LabelModel>
+cd docker
+sudo docker load --input python3-tensorflow-opencv.tar
+cd ..<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -536,10 +540,10 @@ sudo docker load --input python3-tensorflow-opencv.tar<y:LabelModel>
             <node id="n0::n21::n2">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="123.6515189612374" width="339.7138373366606" x="4410.359452048758" y="1522.7847509676835"/>
+                  <y:Geometry height="123.6515189612374" width="339.7138373366606" x="3880.768209943495" y="1509.358494125578"/>
                   <y:Fill color="#3366FF" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="312.09765625" x="13.808090543329854" y="52.84138448061867">Option 1: build the docker image from a dockerfile.<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="312.09765625" x="13.808090543330309" y="52.84138448061867">Option 1: build the docker image from a dockerfile.<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -553,10 +557,10 @@ sudo docker load --input python3-tensorflow-opencv.tar<y:LabelModel>
             <node id="n0::n21::n3">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="123.6515189612374" width="339.7138373366606" x="4410.359452048759" y="1651.6534547188605"/>
+                  <y:Geometry height="123.6515189612374" width="339.7138373366606" x="3880.768209943496" y="1638.227197876755"/>
                   <y:Fill color="#3366FF" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="319.544921875" x="10.084457730830763" y="45.85700948061867">Option 2: build the docker image from a .tar file 
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="319.544921875" x="10.084457730830309" y="45.85700948061867">Option 2: build the docker image from a .tar file 
 (i.e: a compressed image), if ther is one is available.<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -576,7 +580,7 @@ sudo docker load --input python3-tensorflow-opencv.tar<y:LabelModel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="163.13138259174548" width="1750.9267651368027" x="4395.359452048759" y="1805.3049736800979"/>
+                  <y:Geometry height="163.13138259174548" width="1750.9267651368027" x="3865.768209943496" y="1791.8787168379924"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1750.9267651368027" x="0.0" y="0.0">Options for running your container</y:NodeLabel>
@@ -602,7 +606,7 @@ sudo docker load --input python3-tensorflow-opencv.tar<y:LabelModel>
             <node id="n0::n22::n0">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="32.29375999999996" width="1339.4133402828575" x="4758.584701090229" y="1841.7659111800979"/>
+                  <y:Geometry height="32.29375999999996" width="1339.4133402828575" x="4228.993458984966" y="1828.3396543379924"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1214.62890625" x="62.39221701642873" y="0.1781300000000101">Run the container that you need:
@@ -621,7 +625,7 @@ sudo docker run -it --rm -e PROJECT_NAME=template_for_project_archival --name "c
             <node id="n0::n22::n1">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="32.29375999999996" width="339.7138373366597" x="4410.359452048759" y="1841.765911180098"/>
+                  <y:Geometry height="32.29375999999996" width="339.7138373366597" x="3880.768209943496" y="1828.3396543379927"/>
                   <y:Fill color="#3366FF" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="248.18359375" x="45.765121793329854" y="7.16250500000001">Option 1: If you want to use the console.<y:LabelModel>
@@ -638,7 +642,7 @@ sudo docker run -it --rm -e PROJECT_NAME=template_for_project_archival --name "c
             <node id="n0::n22::n2">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="69.83445355510702" width="339.7138373366597" x="4410.359452048759" y="1881.59725449429"/>
+                  <y:Geometry height="69.83445355510702" width="339.7138373366597" x="3880.768209943496" y="1868.1709976521845"/>
                   <y:Fill color="#3366FF" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="305.3125" x="17.200668668329854" y="25.932851777553424">Option 2: If you want to use the Jupyter notebook.<y:LabelModel>
@@ -655,10 +659,10 @@ sudo docker run -it --rm -e PROJECT_NAME=template_for_project_archival --name "c
             <node id="n0::n22::n3">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="69.8344535551069" width="1339.4133402828584" x="4758.58470109023" y="1881.59725449429"/>
+                  <y:Geometry height="69.8344535551069" width="1339.4133402828584" x="4228.993458984967" y="1868.1709976521845"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="73.84375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1240.041015625" x="49.68616232892873" y="-2.0046482224465763">Run the container that you need:
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="73.84375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1240.041015625" x="49.68616232892964" y="-2.0046482224465763">Run the container that you need:
 sudo docker run -it --rm -e PROJECT_NAME=template_for_project_archival --name "container_tensorflow_opencv_py3" -p 8888:8888 -v $(pwd)/:/template_for_project_archival/:rw python3-tensorflow-opencv
 
 Now follow the link on the screen and use a web browser to open it. For instance:
@@ -682,7 +686,7 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="300.8603447984917" width="603.8232081143897" x="6176.286217185561" y="1841.7659111800979"/>
+                  <y:Geometry height="300.8603447984917" width="603.8232081143897" x="5646.694975080299" y="1828.3396543379924"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="603.8232081143897" x="0.0" y="0.0">To run the Jupyter notebook from the terminal</y:NodeLabel>
@@ -708,10 +712,10 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <node id="n0::n23::n0">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="6191.286217185561" y="1925.998543498223"/>
+                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="5661.694975080299" y="1912.5722866561175"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.2578125" x="187.2826978071953" y="11.066505000000006">bash --allow-root run_jupyter.sh <y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.2578125" x="187.28269780719438" y="11.066505000000006">bash --allow-root run_jupyter.sh <y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -725,10 +729,10 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <node id="n0::n23::n1">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="6191.286217185561" y="1979.840527658345"/>
+                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="5661.694975080299" y="1966.4142708162397"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="362.271484375" x="105.77586186969529" y="4.0821300000000065">copy the displayed token, for instance:
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="31.9375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="362.271484375" x="105.77586186969438" y="4.0821300000000065">copy the displayed token, for instance:
 99c36a455ac6cddc1ec0b847b35096366c0c249d71dd1343
 <y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
@@ -744,10 +748,10 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <node id="n0::n23::n2">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="6191.286217185561" y="2033.6825118184674"/>
+                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="5661.694975080299" y="2020.256254976362"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="329.88671875" x="121.96824468219529" y="11.066505000000234">Open a web browser and go to: http://localhost:8888/ <y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="329.88671875" x="121.96824468219438" y="11.066505000000234">Open a web browser and go to: http://localhost:8888/ <y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -761,10 +765,10 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <node id="n0::n23::n3">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="6191.286217185561" y="2087.5244959785896"/>
+                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="5661.694975080299" y="2074.098239136484"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="165.302734375" x="204.2602368696953" y="11.066504999999779">Paste the token and log in <y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="165.302734375" x="204.26023686969438" y="11.066504999999779">Paste the token and log in <y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -778,10 +782,10 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <node id="n0::n23::n4">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="6191.286217185561" y="1878.2268486800979"/>
+                  <y:Geometry height="40.10176000000001" width="573.8232081143897" x="5661.694975080299" y="1864.8005918379924"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.88671875" x="271.9682446821953" y="11.066505000000006">cd  /<y:LabelModel>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="17.96875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="29.88671875" x="271.9682446821944" y="11.066505000000006">cd  /<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
                     <y:ModelParameter>
@@ -800,7 +804,7 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="251.1288556978816" width="1750.9267651368064" x="4395.359452048758" y="2074.5761902068625"/>
+                  <y:Geometry height="275.5344233071205" width="1750.9267651368064" x="3865.768209943495" y="2065.107413277317"/>
                   <y:Fill color="#F5F5F5" transparent="false"/>
                   <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
                   <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="21.4609375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="1750.9267651368064" x="0.0" y="0.0">Optional: image storage</y:NodeLabel>
@@ -826,12 +830,13 @@ http://127.0.0.1:8888/?token=c2adcda2a90949a3a80c633da77e61943c7cec7b3d7a6f43
             <node id="n0::n24::n0">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="98.32102678152211" width="1339.4133402828584" x="4758.584701090228" y="2212.384019123222"/>
+                  <y:Geometry height="98.32102678152211" width="1339.4133402828584" x="4228.993458984965" y="2225.5906981936764"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="87.8125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="547.908203125" x="395.75256857892873" y="5.254263390761025">In terminal (2) save your image to a compressed .tar file and make it accesible, by typing:
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="101.78125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="547.908203125" x="395.75256857892964" y="-1.7301116092389748">In terminal (2) save your image to a compressed .tar file and make it accesible, by typing:
 sudo docker save --output YOUR_DOCKER_IMAGE.tar YOUR_DOCKER_IMAGE
 sudo chmod a+rw YOUR_DOCKER_IMAGE.tar
+
 For instance:
 sudo docker save --output python3-tensorflow-opencv.tar python3-tensorflow-opencv
 sudo chmod a+rw python3-tensorflow-opencv.tar<y:LabelModel>
@@ -848,12 +853,15 @@ sudo chmod a+rw python3-tensorflow-opencv.tar<y:LabelModel>
             <node id="n0::n24::n1">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="83.97714945853846" width="1339.4133402828584" x="4758.584701090228" y="2111.0371277068625"/>
+                  <y:Geometry height="106.6526054585384" width="1339.4133402828584" x="4228.993458984965" y="2101.568350777317"/>
                   <y:Fill hasColor="false" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="774.9296875" x="282.24182639142873" y="12.051074729269203">Create a new docker image from a container using terminal (2) in order to preserve the installed dependencies for future users:
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="101.78125" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="774.9296875" x="282.24182639142964" y="2.435677729269173">Create a new docker image from a container using terminal (2) in order to preserve the installed dependencies for future users:
+cd docker
 sudo docker commit CONTAINER_ID PATH_AND_NAME_TO_NEW_IMAGE
+
 For instance:
+cd docker
 sudo docker commit de79fba0947b tensorflow_1_12_opencv_3_4_3_python3<y:LabelModel>
                       <y:SmartNodeLabelModel distance="4.0"/>
                     </y:LabelModel>
@@ -868,10 +876,10 @@ sudo docker commit de79fba0947b tensorflow_1_12_opencv_3_4_3_python3<y:LabelMode
             <node id="n0::n24::n2">
               <data key="d6">
                 <y:ShapeNode>
-                  <y:Geometry height="196.93703255605317" width="339.7138373366598" x="4410.359452048758" y="2113.768013348691"/>
+                  <y:Geometry height="222.34337419788164" width="339.7138373366598" x="3880.768209943495" y="2101.568350777317"/>
                   <y:Fill color="#3366FF" transparent="false"/>
                   <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="339.291015625" x="0.21141085582985397" y="68.53101627802653">OPTIONAL: Follow these instructions with the container 
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="59.875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="339.291015625" x="0.21141085582985397" y="81.23418709894077">OPTIONAL: Follow these instructions with the container 
 running to create an image, and compress 
 that image into a .tar file that can be used 
 offline.<y:LabelModel>
@@ -890,7 +898,7 @@ offline.<y:LabelModel>
         <node id="n0::n25">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="48.32315360395057" width="1750.9267651368089" x="4395.359452048756" y="965.9124443232588"/>
+              <y:Geometry height="48.32315360395057" width="1750.9267651368089" x="3865.7682099434933" y="952.4861874811534"/>
               <y:Fill hasColor="false" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="left" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="45.90625" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="609.07421875" x="570.9262731934041" y="1.2084518019753432">Upload everything except the /data folder in your project to a private repository in RiSE's github. i.e:
@@ -911,7 +919,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e0" source="n0::n0" target="n0::n2">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-412.93448772872034" sy="0.0" tx="-412.93448772872034" ty="0.0"/>
+          <y:Path sx="-5.366614398850288" sy="0.0" tx="-5.366614398850288" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -921,7 +929,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e1" source="n0::n1" target="n0::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-412.93448772872034" sy="0.0" tx="-412.93448772872034" ty="0.0"/>
+          <y:Path sx="-4.149993881447699" sy="0.0" tx="-4.149993881447699" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -931,7 +939,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e2" source="n0::n3" target="n0::n1">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-412.93448772872034" sy="0.0" tx="-412.93448772872034" ty="0.0"/>
+          <y:Path sx="-4.149993881447699" sy="0.0" tx="-4.149993881447699" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -941,7 +949,10 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e3" source="n0::n4" target="n0::n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-412.93448772872034" sy="0.0" tx="-412.93448772872034" ty="0.0"/>
+          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
+            <y:Point x="4741.231592511898" y="605.4645445091028"/>
+            <y:Point x="4741.231592511898" y="625.4645445091028"/>
+          </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -951,7 +962,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e4" source="n0::n5" target="n0::n10">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-412.93448772872125" sy="78.0099588015164" tx="-412.93448772872034" ty="0.0"/>
+          <y:Path sx="-9.094947017729282E-13" sy="80.31301284536232" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1061,7 +1072,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e15" source="n0::n24" target="n0::n16">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
+          <y:Path sx="-1.8189894035458565E-12" sy="82.53316649215321" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1091,7 +1102,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e18" source="n0::n2" target="n0::n11">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-412.93448772872034" sy="0.0" tx="-412.93448772872034" ty="0.0"/>
+          <y:Path sx="-5.366614398850288" sy="0.0" tx="-5.366614398850288" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1101,7 +1112,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::e19" source="n0::n10" target="n0::n25">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-412.93448772872034" sy="0.0" tx="-412.93448772872034" ty="0.0"/>
+          <y:Path sx="0.0" sy="16.2807530029869" tx="0.0" ty="-6.289715090498703"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
@@ -1131,7 +1142,7 @@ Camilo can help you with this step.<y:LabelModel>
     <edge id="n0::n24::e0" source="n0::n24::n1" target="n0::n24::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="-154.03091203428176" sy="8.892952747376967" tx="-154.03091203428176" ty="24.236677315635916"/>
+          <y:Path sx="-154.03091203428176" sy="11.294222140699082" tx="-154.03091203428176" ty="24.236677315635916"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
