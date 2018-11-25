@@ -1,5 +1,5 @@
 # Documentation
 
-Please place in this folder of the software-related documentation. 
+Please place in this folder the software-related documentation. 
 
 
