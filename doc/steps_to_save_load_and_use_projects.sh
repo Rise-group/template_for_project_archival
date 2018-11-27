@@ -1,6 +1,6 @@
 #----------------------------------------------------------------------------------------------------------
 #Description:      Steps required to store and load projects developed by RiSE students - EAFIT. 
-#Last modified on: 25th November 2018
+#Last modified on: 27th November 2018
 
 
 
@@ -11,6 +11,14 @@
 #----------------------------------------------------------------------------------------------------------
 #----------------------------------------------------------------------------------------------------------
 #----------------------------------------------------------------------------------------------------------
+
+
+#----------------------------------------------------------------------------------------------------------
+#Create a docker account (it is free)
+#----------------------------------------------------------------------------------------------------------
+
+#Go to:
+#https://hub.docker.com/
 
 
 #----------------------------------------------------------------------------------------------------------
@@ -26,19 +34,11 @@
 #https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 #----------------------------------------------------------------------------------------------------------
-#Create a docker account (it is free)
-#----------------------------------------------------------------------------------------------------------
-
-#Go to:
-#https://hub.docker.com/
-
-
-#----------------------------------------------------------------------------------------------------------
-#Identify an appropriate Docker image
+#Identify the name of an appropriate Docker image
 #----------------------------------------------------------------------------------------------------------
 
 #Browse https://hub.docker.com/
-#and search an "image" file which has 
+#and search for a docker "image" file which has 
 #most of what you need (to save you time).
 #For instance search:
 #ubuntu 
@@ -47,15 +47,36 @@
 #or 
 #R
 
+#Once you have identified the image that you want, copy its name (for instance: tensorflow/tensorflow), 
+#then, click on "DETAILS", and then click on "Tags". 
+#Identify the version that you need (for instance: latest-py3)
+#
+#The image that you are interested in can now be specified using name:tag
+#For instance:
+#tensorflow/tensorflow:latest-py3
+
 #----------------------------------------------------------------------------------------------------------
 #Using the image as a starting point, write a Dockerfile that configures your environment.
 #----------------------------------------------------------------------------------------------------------
 
-#You can use as reference the Dockerfile available in: 
+#In order to do so, copy and modify the Dockerfile available in: 
 #https://github.com/Rise-group/template_for_project_archival/tree/master/docker
+#
+#Replace the "line 1" in the Dockerfile with the name:tag that you selected previously:
+#FROM name:tag
+#
+#For instance:
+#FROM tensorflow/tensorflow:latest-py3
 
 
-
+#In your Dockerfile add or remove the libraries or programs that your project needs under the command RUN. 
+#
+#For instance:
+#RUN apt-get update && apt-get install -y \
+#REQUIRED_LIBRARY_1 \
+#REQUIRED_LIBRARY_2 \
+#REQUIRED_LIBRARY_3 \
+#REQUIRED_LIBRARY_N 
 
 
 
